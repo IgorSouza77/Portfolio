@@ -121,3 +121,37 @@ a{
 .imgshark{
     border-radius: 70px;
 }
+.pai{
+    margin-top: 25vh;
+    height: 100vh;
+}
+.sobre{
+    padding-top: 8vh;
+    font-size: 7vh;
+    margin-left: 10vw;
+}
+.sbtext{
+    margin-top: 10vh;
+    margin-left: 10.2vw;
+}
+.hab{
+    padding-top: 10vh;
+    font-size: 7vh;
+    margin-left: 10vw;
+}
+.img{
+    display: flex;
+    width: max-content;
+    margin-top: 5vh;
+    margin-left: 10vw;
+    gap: 3vw;
+}
+.c{
+    height: 10vh;
+}
+.html{
+    height: 10vh;
+}
+.css{
+    height: 10vh;
+}
